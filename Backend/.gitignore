@@ -1,0 +1,10 @@
+# Python Virtual Environment
+# This is the most important folder to ignore!
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS / Editor files
+.DS_Store
